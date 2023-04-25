@@ -126,3 +126,7 @@ cd src && yarn add body-parser@1.20.2 cross-fetch@3.1.5 eventsource-parser@0.1.0
 ### 1.0.1
 
 - Beta
+
+### 1.0.2
+
+- Beta
